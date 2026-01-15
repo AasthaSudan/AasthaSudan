@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 Computer Science student at KIET (2024–2028), CGPA 8.5<br>💻 Skilled in Flutter, Dart, Java, Firebase, and App Development<br>🤝 Member of GDG KIET & CP Byte Club, active in DSA & backend bootcamps<br>🏆 Top 105 in Google Solution Challenge | 🧠 Solved 200+ DSA problems on LeetCode
+🎓 Computer Science student at KIET (2024–2028), CGPA 8.5<br>💻 Skilled in Flutter, Dart, Java, Firebase, and App Development<br>🤝 Member of GDG KIET & CP Byte Club, active in DSA & backend bootcamps<br>🏆 Top 105 in Google Solution Challenge | 🧠 Solved 400+ DSA problems on LeetCode
 
 
 ## 🌐 Socials:
